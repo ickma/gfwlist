@@ -13,6 +13,7 @@ var rules = [
 	'*.github.io',
     "facebook.github.io",
   '*.gitlab.com',
+    "gitlab.com",
   "godoc.org",
 	"w3schools.com",
   "*.html5rocks",
