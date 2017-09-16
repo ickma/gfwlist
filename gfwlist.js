@@ -25,6 +25,7 @@ var rules = [
   "bandwagonhost.com",
   "*.medium.com",
     "*.tensorflow.org",
+    "*.jupyter.org",
   "medium.com",
   "tny.im",
   "GoingGo.Net",
